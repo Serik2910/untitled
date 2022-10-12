@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-12T14:59:03.449588200Z</date>
+  <millis>1665586743449</millis>
+  <nanos>588200</nanos>
+  <sequence>1</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>21</thread>
+  <message>adding gold 71 : added via user service by userId=7, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.500449600Z</date>
+  <millis>1665586743500</millis>
+  <nanos>449600</nanos>
+  <sequence>3</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>44</thread>
+  <message>adding gold 63 : added via user service by userId=30, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.501446900Z</date>
+  <millis>1665586743501</millis>
+  <nanos>446900</nanos>
+  <sequence>4</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>43</thread>
+  <message>adding gold 36 : added via user service by userId=29, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.502444100Z</date>
+  <millis>1665586743502</millis>
+  <nanos>444100</nanos>
+  <sequence>6</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>42</thread>
+  <message>adding gold 46 : added via user service by userId=28, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.502444100Z</date>
+  <millis>1665586743502</millis>
+  <nanos>444100</nanos>
+  <sequence>8</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>26</thread>
+  <message>adding gold 34 : added via user service by userId=12, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.503441700Z</date>
+  <millis>1665586743503</millis>
+  <nanos>441700</nanos>
+  <sequence>9</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>25</thread>
+  <message>adding gold 66 : added via user service by userId=11, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.503441700Z</date>
+  <millis>1665586743503</millis>
+  <nanos>441700</nanos>
+  <sequence>10</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>19</thread>
+  <message>adding gold 96 : added via user service by userId=5, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.504439400Z</date>
+  <millis>1665586743504</millis>
+  <nanos>439400</nanos>
+  <sequence>11</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>18</thread>
+  <message>adding gold 75 : added via user service by userId=4, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.504439400Z</date>
+  <millis>1665586743504</millis>
+  <nanos>439400</nanos>
+  <sequence>12</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>32</thread>
+  <message>adding gold 76 : added via user service by userId=18, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.505436100Z</date>
+  <millis>1665586743505</millis>
+  <nanos>436100</nanos>
+  <sequence>13</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>28</thread>
+  <message>adding gold 35 : added via user service by userId=14, in clanId=2</message>
+</record>
+<record>
+  <date>2022-10-12T14:59:03.505436100Z</date>
+  <millis>1665586743505</millis>
+  <nanos>436100</nanos>
+  <sequence>14</sequence>
+  <logger>Clan_2_2</logger>
+  <level>INFO</level>
+  <class>models.UserAddGoldService</class>
+  <method>addGoldToClan</method>
+  <thread>34</thread>
+  <message>adding gold 51 : added via user service by userId=20, in clanId=2</message>
+</record>
+</log>
